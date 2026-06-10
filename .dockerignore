@@ -10,6 +10,9 @@ __pycache__
 .env.*
 !.env.example
 node_modules
+.npm-cache
+.pip-cache
+.docker-config
 reports
 *.log
 .DS_Store
